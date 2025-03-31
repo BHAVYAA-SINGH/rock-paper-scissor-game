@@ -11,6 +11,18 @@ A simple Rock Paper Scissors game built using HTML, CSS, and JavaScript.  Play a
 *   Keeps track of your score and the computer's score.
 *   Displays the result of each round (Win, Lose, or Tie).
 *   Simple and intuitive user interface.
+  
+## Installation
+
+1.  Clone the repository:
+    ```bash
+    git clone https://github.com/BHAVYAA-SINGH/rock-paper-scissor-game.git
+    ```
+2.  Navigate to the project directory:
+    ```bash
+    cd rock-paper-scissor-game
+    ```
+3.  Open `rock-paper-scissor.html` in your web browser.
 
 ## Technologies Used
 
